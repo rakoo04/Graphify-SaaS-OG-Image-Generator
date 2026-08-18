@@ -1,0 +1,7 @@
+{
+  "name": "Graphify SaaS - Premium OG Image Generator",
+  "description": "Generate high-end, studio-quality Open Graph images for your SaaS, brand, or side project in seconds. Built for founders and designers who value negative space and minimalist aesthetics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
